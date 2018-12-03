@@ -9,4 +9,5 @@
 스크린은 총 9개로 이루어져 있습니다.
 그러나 MIT의 한계로 저의 게임은 완성이 되지 못하고 끝나였습니다
 
-2. 유투브 링크 <https://youtu.be/Xte_pJ34BEI>
+2. 유투브 링크 
+<https://youtu.be/Xte_pJ34BEI>
